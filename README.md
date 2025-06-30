@@ -1,1 +1,1 @@
-add new features delete button.
+add new features delete button
